@@ -4,6 +4,8 @@ const calculateChange = (input) => {
   // Add your code here
 };
 
+console.log("Joshua's Demo");
+
 // Sample Test Cases
 console.log(calculateChange(4.62));
 // $4.62 ==> 4 dollars, 2 quarters, 1 dime, 2 pennies
